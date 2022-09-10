@@ -1,2 +1,2 @@
 # Generic-List
-Generic List ile ilgili alıştırma yapıldı
+Bu bir [patika.dev](https://www.patika.dev/tr) projesidir.
